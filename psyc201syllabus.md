@@ -1,6 +1,7 @@
 # PSYC 201: Social Psychology Syllabus Spring 2018
 
 ## Instructor: Patrick Sweeney
+### Assistant Instructors: The Jaunary 2018 GCDRI students
 
 ### Readings
 
@@ -15,3 +16,4 @@ Butler, J. *Gender Trouble*
 
 **Week 4**
 Fanon, F. *Black Skin, White Masks*
+
